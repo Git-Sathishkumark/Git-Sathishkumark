@@ -8,9 +8,9 @@ I bring innovative AI-driven solutions to life. My goal is to leverage my expert
   
 - **🤖 Machine Learning:** Supervised, Unsupervised, Semi-supervised Algorithms
 
-- **🧠 Deep Learning: TensorFlow, Keras
+- **🧠 Deep Learning:** TensorFlow, Keras
 
-- 🔍 Generative AI & Large Language Models: GPT, Transformers, LLaMA
+- **🔍 Generative AI & Large Language Models:** GPT, Transformers, LLaMA
   
 - **🗣️ Natural Language Processing:** NLTK, Hugging Face
   
