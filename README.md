@@ -59,4 +59,4 @@ I bring innovative AI-driven solutions to life. My goal is to leverage my expert
   
     🔗 [LinkedIn](https://www.linkedin.com/in/sathish-kumar-karunakaran/)
     
-    ✉️ sentosathishkumark@gmail.com
+    ✉️ sendtosathishkumark@gmail.com
