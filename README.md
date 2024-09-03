@@ -5,34 +5,34 @@ I bring innovative AI-driven solutions to life. My goal is to leverage my expert
 ## 🔧 Technical Skills
 
 - **💻 Programming:** Python
-- 
+  
 - **🤖 Machine Learning:** Supervised, Unsupervised, Semi-supervised Algorithms
-- 
+  
 - **🗣️ Natural Language Processing:** NLTK, Hugging Face
-- 
+  
 - **📊 Data Analysis & Manipulation:** Pandas, NumPy
-- 
+  
 - **📈 Data Visualization:** Matplotlib, Seaborn, Plotly
-- 
+  
 - **🛢️ Databases:** SQL (MySQL)
-- 
+  
 - **☁️ Cloud Platforms:** AWS
-- 
+  
 - **📊 Business Intelligence:** Power BI, EDA, DAX  
 
 
-***🚀 Project Highlights***
+## 🚀 Project Highlights
 
-  📨 AIME: AI-Driven Marketing Engagement:
+ - ** 📨 AIME: AI-Driven Marketing Engagement:
   Developed a personalized email marketing system using ML, NLP, and LLaMA, featuring customer segmentation, churn prediction, and multi-language support.
 
-  📰 Stock News Summarization & Sentiment Analysis:
+  - ** 📰 Stock News Summarization & Sentiment Analysis:
   Created a web scraping and news summarization system using BeautifulSoup and Pegasus Transformers.
 
-  📚 EBook Summary & Sentiment Analysis:
+  - ** 📚 EBook Summary & Sentiment Analysis:
   Implemented a text summarization model using RNN with attention methods for eBook content.
 
-  🎤 Speech Emotion Analysis:
+  - ** 🎤 Speech Emotion Analysis:
   Utilized IBM Watson API for speech-to-text and emotion recognition, enhancing data quality through advanced NLP techniques.
 
 
