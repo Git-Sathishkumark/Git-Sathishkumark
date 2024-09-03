@@ -2,23 +2,23 @@
 Aspiring Data Scientist with a passion for AI and a knack for real-time malware analysis. Currently thriving as an Associate Research Analyst at Xcitium, 
 I bring innovative AI-driven solutions to life. My goal is to leverage my expertise in machine learning, natural language processing, and data visualization to create impactful projects.
 
-***🔧 Technical Skills***
+## 🔧 Technical Skills
 
-  💻 Programming: Python
-
-  🤖 Machine Learning: Supervised, Unsupervised, Semi-supervised Algorithms
-
-  🗣️ Natural Language Processing: NLTK, Hugging Face
-
-  📊 Data Analysis & Manipulation: Pandas, NumPy
-
-  📈 Data Visualization: Matplotlib, Seaborn, Plotly
-
-  🛢️ Databases: SQL (MySQL)
-
-  ☁️ Cloud Platforms: AWS
-
-  📊 Business Intelligence: Power BI, EDA, DAX
+- **💻 Programming:** Python
+- 
+- **🤖 Machine Learning:** Supervised, Unsupervised, Semi-supervised Algorithms
+- 
+- **🗣️ Natural Language Processing:** NLTK, Hugging Face
+- 
+- **📊 Data Analysis & Manipulation:** Pandas, NumPy
+- 
+- **📈 Data Visualization:** Matplotlib, Seaborn, Plotly
+- 
+- **🛢️ Databases:** SQL (MySQL)
+- 
+- **☁️ Cloud Platforms:** AWS
+- 
+- **📊 Business Intelligence:** Power BI, EDA, DAX  
 
 
 ***🚀 Project Highlights***
