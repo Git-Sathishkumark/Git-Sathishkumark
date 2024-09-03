@@ -40,15 +40,15 @@ I bring innovative AI-driven solutions to life. My goal is to leverage my expert
       Utilized IBM Watson API for speech-to-text and emotion recognition, enhancing data quality through advanced NLP techniques.
 
 
-***🎓 Education & Certifications***
+## 🎓 Education & Certifications
 
-  🎓 B-Tech in Computer Science and Engineering from Vel Tech University
+ - ** 🎓 B-Tech in Computer Science and Engineering from Vel Tech University**
 
-  📜 Machine Learning Specialization - Coursera (Stanford University)
+  - ** 📜 Machine Learning Specialization - Coursera (Stanford University)**
 
-  📊 Data Analytics - Boot Camp Certificate (Admatic)
+  - ** 📊 Data Analytics - Boot Camp Certificate (Admatic)**
 
-  📚 Mathematics for Machine Learning & Data Science - Coursera
+  - ** 📚 Mathematics for Machine Learning & Data Science - Coursera**
 
 
   ***📫 Let's Connect!***
