@@ -2,7 +2,7 @@
 Aspiring Data Scientist with a passion for AI and a knack for real-time malware analysis. Currently thriving as an Associate Research Analyst at Xcitium, 
 I bring innovative AI-driven solutions to life. My goal is to leverage my expertise in machine learning, natural language processing, and data visualization to create impactful projects.
 
-***#🔧 Technical Skills***
+***🔧 Technical Skills***
 
   💻 Programming: Python
 
