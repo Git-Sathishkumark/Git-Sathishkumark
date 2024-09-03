@@ -51,7 +51,7 @@ I bring innovative AI-driven solutions to life. My goal is to leverage my expert
   - **📚 Mathematics for Machine Learning & Data Science - Coursera**
 
 
-  ***📫 Let's Connect!***
+  ## 📫 Let's Connect!***
   
     🔗 [LinkedIn](https://www.linkedin.com/in/sathish-kumar-karunakaran/)
     
